@@ -1,1 +1,1 @@
-# 6.Logistic Regression
+# Logistic Regression
